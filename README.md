@@ -1,5 +1,5 @@
 # Web-Development-Features
-**Frontend**
+**Frontend (Html, Js, Css)**
 1. [Website Animations](https://github.com/bruceminanga/Website-Animations)
 
 **Backend (Django)**
